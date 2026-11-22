@@ -10,4 +10,4 @@ I spend my days building Discord bots, mentoring new developers, and creating to
 
 I believe technology should uplift and empower everyone — especially those who've been historically excluded from tech spaces. That's why I focus on ethical, community-driven projects that actually make a difference.
 
-Want to learn more about my work, join a mentorship program, or just hang out with a bunch of awesome people? **Come join me on Discord at [chat.spellware.com](https://chat.spellware.dev)** — I'd love to meet you! ✨
+Want to learn more about my work, join a mentorship program, or just hang out with a bunch of awesome people? **Come join me on Discord at [chat.spellware.dev](https://chat.spellware.dev)** — I'd love to meet you! ✨
