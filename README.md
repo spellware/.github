@@ -1,20 +1,20 @@
-# NHCarrigan
+# SpellWare
 
-We are a software consultancy and community management firm.
+This repository holds the profile README shown on [our GitHub organisation page](https://github.com/spellware), and the default community files that GitHub applies to any repository in the organisation that does not have its own.
 
-We have two very specific missions:
+| File | What it is |
+| --- | --- |
+| [`profile/README.md`](profile/README.md) | The organisation profile |
+| [`SECURITY.md`](SECURITY.md) | Our security policy |
+| [`CONTRIBUTING.md`](CONTRIBUTING.md) | How to contribute |
+| [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) | Our code of conduct |
+| [`PRIVACY.md`](PRIVACY.md) and [`TERMS.md`](TERMS.md) | Our privacy policy and terms of service |
+| [`LICENSE.md`](LICENSE.md) | Our software licence |
 
-- Help start-up companies reach their goals
-- Help developers break in to the tech industry
+## About SpellWare
 
-We are currently a sole-proprietorship, but we have big plans to expand into an LLC and to hire developers who are in need of their first tech opportunity.
-
-## Our Team
-
-| Avatar                                 | Name           | Position               |
-| -------------------------------------- | -------------- | ---------------------- |
-| <img src="https://github.com/naomi-lgbt.png" width=100> | [Naomi Carrigan](https://github.com/naomi-lgbt) | Owner, sole proprietor |
+SpellWare provides software engineering and community management for developer-facing companies. Learn more at [spellware.dev](https://spellware.dev).
 
 ## Contact
 
-We may be contacted through our [Chat Server](http://chat.nhcarrigan.com) or via email at `contact@nhcarrigan.com`.
+You can reach us through [our Discord community](https://chat.spellware.dev) or by email at `contact@spellware.dev`.
